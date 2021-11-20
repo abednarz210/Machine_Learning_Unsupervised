@@ -33,7 +33,7 @@ investment.
 
 
 
-## Cluster Analysis with k-Means
+## Cluster Analysis with K-Means
 
 * Create an elbow plot to identify the best number of clusters 
 
