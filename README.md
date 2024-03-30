@@ -1,7 +1,7 @@
 # Cryptocurrency Clusters 
 ## Machine_Learning_Unsupervised
 
-![Cryptocurrency]([Resources/bitcoin-2007769_640.jpg])
+![Cryptocurrency](Resources/bitcoin-2007769_640.jpg)
 
 ## Background
 
