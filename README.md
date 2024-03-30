@@ -1,7 +1,7 @@
 # Cryptocurrency Clusters 
 ## Machine_Learning_Unsupervised
 
-![Cryptocurrency](https://www.acuant.com/wp-content/uploads/2021/05/AdobeStock_275281521-1-1.jpeg)
+![Cryptocurrency]([https://unsplash.com/photos/gold-colored-bitcoin-iGYiBhdNTpE])
 
 ## Background
 
