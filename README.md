@@ -40,6 +40,6 @@ investment.
 
 ## Recommendation
 
-We can observe the shape of the elbow curve at 4, according to the model our K value is orthe  optimal number of cluster is 4. 
+We can observe the shape of the elbow curve at 4, according to the model our K value optimal number of clusters is 4. 
 
 
