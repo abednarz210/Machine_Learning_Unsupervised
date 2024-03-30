@@ -1,7 +1,7 @@
 # Cryptocurrency Clusters 
 ## Machine_Learning_Unsupervised
 
-![Cryptocurrency]([https://unsplash.com/photos/gold-colored-bitcoin-iGYiBhdNTpE])
+![Cryptocurrency]([Resources/bitcoin-2007769_640.jpg])
 
 ## Background
 
