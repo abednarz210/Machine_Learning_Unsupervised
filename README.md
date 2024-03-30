@@ -15,12 +15,12 @@ investment.
 
 * Read crypto_data.csv into Pandas. The dataset was obtained from CryptoCompare.
 
-* Discard all cryptocurrencies that are not being traded by filtering for currencies that _are_ currently being traded. Next, drop 
-  the IsTrading column from the dataframe.
+* Discard all cryptocurrencies not being traded by filtering for currencies that _are_ currently being traded. Next, drop 
+  the IsTrading column from the data frame.
 * Remove all rows that have at least one null value.
-* Filter for cryptocurrencies that have been mined
-* Convert data to be comprehensible to a machine learning algorithm, change to numeric values and delete unnessary columns.  
-* Standardize the dataset so that columns that contain larger values do not unduly influence the outcome.
+* Filter for cryptocurrencies that have been mined.
+* Convert data to be comprehensible to a machine learning algorithm, change to numeric values, and delete unnecessary columns.  
+* Standardize the dataset so columns containing larger values do not unduly influence the outcome.
 
 
 
